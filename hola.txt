@@ -1,3 +1,7 @@
 vale, perfe
 cambio hecho pa liarla
+<<<<<<< HEAD
 sisi
+=======
+aver
+>>>>>>> feature
